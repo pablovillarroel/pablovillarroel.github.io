@@ -1,7 +1,16 @@
 <!DOCTYPE html>
 <html>
-	<body>
-		<h1>Hello World</h1>
-		<p>I'm hosted with GitHub Pages.</p>
-	</body>
+  <head>
+    <title>Pablo Villarroel - Página Personal</title>
+  </head>
+  <body>
+    <h1>Bienvenidos a Mi Página Personal 90's</h1>
+    <nav>
+      <ul>
+        <li><a href="https://facebook.com/pablo.villarroel/">Facebook</a></li>
+        <li><a href="https://twitter.com/pa_villarroel/">Twitter</a></li>
+        <li><a href="https://instagram.com/pvillarr/">Instagram</a></li>
+      </ul>
+    </nav>
+  </body>
 </html>
